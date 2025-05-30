@@ -81,14 +81,3 @@
 - ⚙️ Automated API Projects
 
 ---
-
-## 🗓 Timeline & Milestones
-
-```mermaid
-timeline
-    title Kartik Gupta – Tech Journey
-    2020 : 📘 Completed 12th (Humanities) – 78.8%
-    2023 : 🎓 Graduated BCA – CGPA 7.58
-    2024 : 🛠 Developed Blood Info System & Streaming Website Backend
-    2025 : 🧠 Working on Crypto Trading Screen Reader
-    2025 : 💼 Preparing for Software Engineer Roles

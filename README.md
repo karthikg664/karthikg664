@@ -15,7 +15,7 @@
 - 🧠 Passionate about **AI tools, Backend Systems, Financial Tech & Automation**
 - 🌍 Based in **Shimla, Himachal Pradesh**
 - 🎯 Goal: Land a **Software Engineer** role in **AI, Backend, or Trading Systems**
-- 📬 Contact: **98170-51707** | [LinkedIn](#)
+- 📬 Contact: [LinkedIn](#)
 
 ---
 
